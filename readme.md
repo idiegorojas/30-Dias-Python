@@ -1,6 +1,6 @@
 # 30 Días de Python
 
-![](./images/imagen.jpg)
+![](./images/header.jpg)
 
 Reto de 30 días de Python: Un ejercicio y su solución cada día para mejorar mis habilidades de programación en Python.
 
