@@ -20,6 +20,6 @@ Reto de 30 días de Python: Un ejercicio y su solución cada día para mejorar m
   - `ejercicio.py`: Descripción del ejercicio del día 2.
   - `solucion.py`: Solución del ejercicio del día 2.
 
-## ## Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
